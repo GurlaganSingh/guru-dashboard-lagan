@@ -1,4 +1,4 @@
-# Gurlagan\u2019s Dark-Glass Dashboard  
+# Guru Dark-Glass Dashboard  
 > SvelteKit + Tailwind CSS 4 + Supabase (mock) + Chart.js
 
 A minimal, performant admin panel built to showcase modern frontend skills.  
@@ -6,7 +6,7 @@ Live demo runs on `http://localhost:5173` after one command.
 
 ---
 
-### \U0001f9d1\u200d\U0001f4bb About Me  
+### About Me  
 Class 10 Linux enthusiast running **Void Linux Musl Libc + Arch Linux Distrobox**.  
 I craft clean SvelteKit apps, automate with AI, and keep everything lightweight & reproducible.
 
