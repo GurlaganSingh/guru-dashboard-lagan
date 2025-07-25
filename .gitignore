@@ -28,3 +28,6 @@ node_modules/
 node_modules/
 .svelte-kit/
 .env
+node_modules/
+.svelte-kit/
+.env
