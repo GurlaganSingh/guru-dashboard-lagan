@@ -1,5 +1,5 @@
 # Guru Dark-Glass Dashboard  
-> SvelteKit + Tailwind CSS 4 + Supabase (mock) + Chart.js
+> SvelteKit + Tailwind CSS 4 + Chart.js
 
 A minimal, performant admin panel built to showcase modern frontend skills.  
 Live demo runs on `http://localhost:5173` after one command.
