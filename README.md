@@ -12,9 +12,9 @@ I craft clean SvelteKit apps, automate with AI, and keep everything lightweight 
 
 ---
 
-### \U0001f680 Quick Start
+###  Quick Start
 ```bash
-bun install          # deps
-bun run dev          # dev server
+bun install          # deps or npm/deno/yarn install
+bun run dev          # dev server or npm/deno/yarn run dev
 # in another pane
-bunx json-server --watch db.json --port 4000
+bun x json-server --watch db.json --port 4000 # or npx or whatewver package manager you use
