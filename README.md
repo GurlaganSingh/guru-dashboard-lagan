@@ -1,38 +1,20 @@
-# sv
+# Gurlagan\u2019s Dark-Glass Dashboard  
+> SvelteKit + Tailwind CSS 4 + Supabase (mock) + Chart.js
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+A minimal, performant admin panel built to showcase modern frontend skills.  
+Live demo runs on `http://localhost:5173` after one command.
 
-## Creating a project
+---
 
-If you're seeing this, you've probably already done this step. Congrats!
+### \U0001f9d1\u200d\U0001f4bb About Me  
+Class 10 Linux enthusiast running **Void Linux Musl Libc + Arch Linux Distrobox**.  
+I craft clean SvelteKit apps, automate with AI, and keep everything lightweight & reproducible.
 
+---
+
+### \U0001f680 Quick Start
 ```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+bun install          # deps
+bun run dev          # dev server
+# in another pane
+bunx json-server --watch db.json --port 4000
